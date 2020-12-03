@@ -1,0 +1,8 @@
+/Users/chengdeming/Documents/study/opensource/opensource/mygithub/dubbo/apache-dubbo-incubating-2.7.1/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/support/SerializationOptimizer.java
+/Users/chengdeming/Documents/study/opensource/opensource/mygithub/dubbo/apache-dubbo-incubating-2.7.1/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/DataOutput.java
+/Users/chengdeming/Documents/study/opensource/opensource/mygithub/dubbo/apache-dubbo-incubating-2.7.1/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/ObjectInput.java
+/Users/chengdeming/Documents/study/opensource/opensource/mygithub/dubbo/apache-dubbo-incubating-2.7.1/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/Serialization.java
+/Users/chengdeming/Documents/study/opensource/opensource/mygithub/dubbo/apache-dubbo-incubating-2.7.1/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/DataInput.java
+/Users/chengdeming/Documents/study/opensource/opensource/mygithub/dubbo/apache-dubbo-incubating-2.7.1/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/Cleanable.java
+/Users/chengdeming/Documents/study/opensource/opensource/mygithub/dubbo/apache-dubbo-incubating-2.7.1/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/support/SerializableClassRegistry.java
+/Users/chengdeming/Documents/study/opensource/opensource/mygithub/dubbo/apache-dubbo-incubating-2.7.1/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/ObjectOutput.java

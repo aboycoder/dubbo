@@ -1,0 +1,6 @@
+org/apache/dubbo/validation/support/jvalidation/JValidatorTest.class
+org/apache/dubbo/validation/support/jvalidation/mock/JValidatorTestTarget$Test2.class
+org/apache/dubbo/validation/support/jvalidation/mock/ValidationParameter.class
+org/apache/dubbo/validation/filter/ValidationFilterTest.class
+org/apache/dubbo/validation/support/jvalidation/mock/JValidatorTestTarget.class
+org/apache/dubbo/validation/support/jvalidation/JValidationTest.class

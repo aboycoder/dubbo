@@ -1,0 +1,14 @@
+org/apache/dubbo/registry/nacos/NacosRegistry.class
+org/apache/dubbo/registry/nacos/NacosRegistry$2.class
+org/apache/dubbo/registry/nacos/NacosRegistry$3.class
+org/apache/dubbo/registry/nacos/NacosRegistry$9.class
+org/apache/dubbo/registry/nacos/NacosRegistry$7.class
+org/apache/dubbo/registry/nacos/NacosRegistry$4.class
+org/apache/dubbo/registry/nacos/NacosRegistry$5$1.class
+org/apache/dubbo/registry/nacos/NacosRegistry$8.class
+org/apache/dubbo/registry/nacos/NacosRegistryFactory.class
+org/apache/dubbo/registry/nacos/NacosRegistry$NamingServiceCallback.class
+org/apache/dubbo/registry/nacos/NacosRegistry$5.class
+org/apache/dubbo/registry/nacos/NacosRegistry$1.class
+org/apache/dubbo/registry/nacos/NacosRegistry$NacosDataFilter.class
+org/apache/dubbo/registry/nacos/NacosRegistry$6.class

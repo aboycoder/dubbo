@@ -1,0 +1,6 @@
+org/apache/dubbo/cache/support/AbstractCacheFactoryTest.class
+org/apache/dubbo/cache/support/lru/LruCacheFactoryTest.class
+org/apache/dubbo/cache/filter/CacheFilterTest.class
+org/apache/dubbo/cache/support/expiring/ExpiringCacheFactoryTest.class
+org/apache/dubbo/cache/support/threadlocal/ThreadLocalCacheFactoryTest.class
+org/apache/dubbo/cache/support/jcache/JCacheFactoryTest.class

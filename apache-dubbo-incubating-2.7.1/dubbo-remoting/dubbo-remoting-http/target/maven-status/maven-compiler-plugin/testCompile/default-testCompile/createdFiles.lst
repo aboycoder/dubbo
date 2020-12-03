@@ -1,0 +1,4 @@
+org/apache/dubbo/remoting/http/jetty/JettyHttpBinderTest$1.class
+org/apache/dubbo/remoting/http/tomcat/TomcatHttpBinderTest$1.class
+org/apache/dubbo/remoting/http/jetty/JettyHttpBinderTest.class
+org/apache/dubbo/remoting/http/tomcat/TomcatHttpBinderTest.class

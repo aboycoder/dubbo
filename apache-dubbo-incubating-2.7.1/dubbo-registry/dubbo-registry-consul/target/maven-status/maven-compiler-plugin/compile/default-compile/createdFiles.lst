@@ -1,0 +1,3 @@
+org/apache/dubbo/registry/consul/ConsulRegistry$ConsulNotifier.class
+org/apache/dubbo/registry/consul/ConsulRegistryFactory.class
+org/apache/dubbo/registry/consul/ConsulRegistry.class

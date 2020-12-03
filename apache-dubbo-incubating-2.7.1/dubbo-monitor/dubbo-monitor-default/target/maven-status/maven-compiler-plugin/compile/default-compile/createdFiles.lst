@@ -1,0 +1,3 @@
+org/apache/dubbo/monitor/dubbo/DubboMonitorFactory.class
+org/apache/dubbo/monitor/dubbo/Statistics.class
+org/apache/dubbo/monitor/dubbo/DubboMonitor.class

@@ -1,0 +1,8 @@
+org/apache/dubbo/configcenter/AbstractDynamicConfigurationFactory.class
+org/apache/dubbo/configcenter/support/nop/NopDynamicConfiguration.class
+org/apache/dubbo/configcenter/ConfigurationListener.class
+org/apache/dubbo/configcenter/ConfigChangeEvent.class
+org/apache/dubbo/configcenter/DynamicConfiguration.class
+org/apache/dubbo/configcenter/support/nop/NopDynamicConfigurationFactory.class
+org/apache/dubbo/configcenter/DynamicConfigurationFactory.class
+org/apache/dubbo/configcenter/ConfigChangeType.class

@@ -1,0 +1,8 @@
+org/apache/dubbo/rpc/protocol/injvm/IEcho.class
+org/apache/dubbo/rpc/protocol/injvm/DemoRequest.class
+org/apache/dubbo/rpc/protocol/injvm/ProtocolTest$1.class
+org/apache/dubbo/rpc/protocol/injvm/DemoServiceImpl.class
+org/apache/dubbo/rpc/protocol/injvm/Type.class
+org/apache/dubbo/rpc/protocol/injvm/ProtocolTest.class
+org/apache/dubbo/rpc/protocol/injvm/InjvmProtocolTest.class
+org/apache/dubbo/rpc/protocol/injvm/DemoService.class

@@ -1,0 +1,3 @@
+org/apache/dubbo/configcenter/support/etcd/EtcdDynamicConfigurationFactory.class
+org/apache/dubbo/configcenter/support/etcd/EtcdDynamicConfiguration$EtcdConfigWatcher.class
+org/apache/dubbo/configcenter/support/etcd/EtcdDynamicConfiguration.class

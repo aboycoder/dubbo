@@ -1,0 +1,6 @@
+org/apache/dubbo/demo/service/DemoService.class
+org/apache/dubbo/demo/consumer/DemoServiceConsumerXmlBootstrap.class
+org/apache/dubbo/demo/provider/DemoServiceProviderXmlBootstrap.class
+org/apache/dubbo/demo/provider/DemoServiceProviderBootstrap.class
+org/apache/dubbo/demo/consumer/DemoServiceConsumerBootstrap.class
+org/apache/dubbo/demo/service/DefaultService.class

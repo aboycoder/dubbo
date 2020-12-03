@@ -1,0 +1,6 @@
+org/apache/remoting/transport/mina/ClientsTest.class
+org/apache/remoting/transport/mina/Hello.class
+org/apache/remoting/transport/mina/WorldHandler.class
+org/apache/remoting/transport/mina/MinaClientToServerTest.class
+org/apache/remoting/transport/mina/World.class
+org/apache/remoting/transport/mina/ClientToServerTest.class

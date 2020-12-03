@@ -1,0 +1,4 @@
+org/apache/dubbo/rpc/protocol/http/HttpServiceImpl.class
+org/apache/dubbo/rpc/protocol/http/HttpService.class
+org/apache/dubbo/rpc/protocol/http/HttpServiceImpl$MyException.class
+org/apache/dubbo/rpc/protocol/http/HttpProtocolTest.class

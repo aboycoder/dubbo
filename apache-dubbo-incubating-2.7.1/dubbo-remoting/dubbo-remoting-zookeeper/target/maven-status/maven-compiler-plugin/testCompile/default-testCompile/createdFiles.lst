@@ -1,0 +1,5 @@
+org/apache/dubbo/remoting/zookeeper/curator/CuratorZookeeperClientTest.class
+org/apache/dubbo/remoting/zookeeper/support/AbstractZookeeperTransporterTest.class
+org/apache/dubbo/remoting/zookeeper/curator/CuratorZookeeperClientTest$1.class
+org/apache/dubbo/remoting/zookeeper/curator/CuratorZookeeperTransporterTest.class
+org/apache/dubbo/remoting/zookeeper/curator/CuratorZookeeperClientTest$2.class

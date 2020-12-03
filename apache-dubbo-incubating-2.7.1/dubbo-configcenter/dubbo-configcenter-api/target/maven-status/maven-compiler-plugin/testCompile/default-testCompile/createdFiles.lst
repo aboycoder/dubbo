@@ -1,0 +1,3 @@
+org/apache/dubbo/configcenter/mock/MockDynamicConfigurationFactory.class
+org/apache/dubbo/configcenter/mock/AbstractDynamicConfigurationTest.class
+org/apache/dubbo/configcenter/mock/MockDynamicConfiguration.class

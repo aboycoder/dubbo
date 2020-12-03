@@ -1,0 +1,17 @@
+org/apache/dubbo/registry/dubbo/DemoService.class
+org/apache/dubbo/registry/dubbo/RegistryDirectoryTest$Param.class
+org/apache/dubbo/registry/dubbo/SimpleRegistryService.class
+org/apache/dubbo/registry/dubbo/RegistryStatusCheckerTest.class
+org/apache/dubbo/registry/dubbo/DubboRegistryTest.class
+org/apache/dubbo/registry/dubbo/RegistryProtocolTest$MockInvoker.class
+org/apache/dubbo/registry/dubbo/RegistryProtocolTest.class
+org/apache/dubbo/registry/dubbo/MockedClient$1.class
+org/apache/dubbo/registry/dubbo/RegistryDirectoryTest$DemoService.class
+org/apache/dubbo/registry/dubbo/RegistryProtocolTest$MockRegistry.class
+org/apache/dubbo/registry/dubbo/RegistryDirectoryTest$MockRegistry.class
+org/apache/dubbo/registry/dubbo/MockChannel.class
+org/apache/dubbo/registry/dubbo/AbstractRegistryService.class
+org/apache/dubbo/registry/dubbo/MockedClient.class
+org/apache/dubbo/registry/dubbo/RegistryDirectoryTest.class
+org/apache/dubbo/registry/dubbo/SimpleRegistryExporter.class
+org/apache/dubbo/registry/dubbo/DubboRegistryTest$MockDubboRegistry.class

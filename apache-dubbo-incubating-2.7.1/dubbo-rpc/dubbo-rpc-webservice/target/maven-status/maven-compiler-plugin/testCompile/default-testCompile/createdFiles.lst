@@ -1,0 +1,4 @@
+org/apache/dubbo/rpc/protocol/webservice/DemoService.class
+org/apache/dubbo/rpc/protocol/webservice/DemoServiceImpl.class
+org/apache/dubbo/rpc/protocol/webservice/WebserviceProtocolTest.class
+org/apache/dubbo/rpc/protocol/webservice/User.class

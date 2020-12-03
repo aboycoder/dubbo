@@ -1,0 +1,4 @@
+org/apache/dubbo/rpc/protocol/hessian/HessianServiceImpl.class
+org/apache/dubbo/rpc/protocol/hessian/HessianServiceImpl$MyException.class
+org/apache/dubbo/rpc/protocol/hessian/HessianService.class
+org/apache/dubbo/rpc/protocol/hessian/HessianProtocolTest.class

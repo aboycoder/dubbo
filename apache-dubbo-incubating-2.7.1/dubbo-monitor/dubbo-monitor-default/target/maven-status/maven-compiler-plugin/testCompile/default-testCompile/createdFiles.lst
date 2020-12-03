@@ -1,0 +1,7 @@
+org/apache/dubbo/monitor/dubbo/DubboMonitorTest.class
+org/apache/dubbo/monitor/dubbo/StatisticsTest.class
+org/apache/dubbo/monitor/dubbo/DubboMonitorFactoryTest.class
+org/apache/dubbo/monitor/dubbo/MockMonitorService.class
+org/apache/dubbo/monitor/dubbo/DubboMonitorTest$3.class
+org/apache/dubbo/monitor/dubbo/DubboMonitorTest$1.class
+org/apache/dubbo/monitor/dubbo/DubboMonitorTest$2.class

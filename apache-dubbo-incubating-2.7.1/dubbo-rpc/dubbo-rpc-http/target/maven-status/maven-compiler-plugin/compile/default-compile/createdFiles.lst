@@ -1,0 +1,7 @@
+org/apache/dubbo/rpc/protocol/http/HttpProtocol$2.class
+org/apache/dubbo/rpc/protocol/http/HttpProtocol.class
+org/apache/dubbo/rpc/protocol/http/HttpProtocol$3.class
+org/apache/dubbo/rpc/protocol/http/HttpProtocol$InternalHandler.class
+org/apache/dubbo/rpc/protocol/http/HttpRemoteInvocation.class
+org/apache/dubbo/rpc/protocol/http/HttpProtocol$1.class
+com/alibaba/dubbo/rpc/protocol/http/HttpRemoteInvocation.class
